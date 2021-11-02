@@ -2,6 +2,8 @@
 - 👀 I majored in spatial design
 - 🌱 I’m currently learning web full-stack development and AI
 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynoowah&theme=react&show_icons=true)
 
 ### 💪 Skills
