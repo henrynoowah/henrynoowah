@@ -12,7 +12,11 @@
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
+
+[![noowah's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynoowah&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/henrynoowah)
+
 ![noowah's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=noowah)
+
 
 <!---
 henrynoowah/henrynoowah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
