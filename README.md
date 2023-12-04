@@ -1,7 +1,5 @@
-**👋  Hi, I’m @henrynoowah**
+**👋  Hi, I’m Hawoon || Henry @henrynoowah**
 
-- 📚  I majored in design before becoming a Front-end Developer
- 
 
 <br>
 
