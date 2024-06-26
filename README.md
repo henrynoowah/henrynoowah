@@ -19,9 +19,7 @@ Currently, I am a **Frontend Developer (Team Lead)** at CloudHospital
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
 </p>
   
-[![noowah's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynoowah&show_icons=true&theme=dark)](https://github.com/henrynoowah)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynoowah&show_icons=true&theme=dark&hide_rank=true)
+[![noowah's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynoowah&show_icons=true&theme=dark&layout=compact)](https://github.com/henrynoowah) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynoowah&show_icons=true&theme=dark&hide_rank=true&line_height=20&icon_color=ffffff)
 
 
 
